@@ -6,7 +6,7 @@ const Introduction = () => {
   const navigate = useNavigate();
 
   const handleBackToMenu = () => {
-    navigate('/'); // Navigate back to the main menu
+    navigate('/'); 
   };
 
   return (
