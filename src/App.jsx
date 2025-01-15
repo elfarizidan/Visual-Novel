@@ -1,11 +1,8 @@
 import React from 'react';
+import MainMenu from './component/Main Menu/MainMenu';
 
 const App = () => {
-  return (
-    <div>
-
-    </div>
-  );
+  return <MainMenu />;
 };
 
 export default App;
